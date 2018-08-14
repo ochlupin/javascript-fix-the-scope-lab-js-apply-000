@@ -5,7 +5,11 @@ function myAnimal() {
 }
 
 function yourAnimal() {
+<<<<<<< HEAD
   var animal = 'cat'
+=======
+  var animal ='cat'
+>>>>>>> 1f4c10cf87ba029261012f6c24b1bc1d96105ee9
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
@@ -13,12 +17,19 @@ function yourAnimal() {
 }
 
 const two = 2
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1f4c10cf87ba029261012f6c24b1bc1d96105ee9
 function add2(n) {
   return n + two
 
   // Feel free to move things around!
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 1f4c10cf87ba029261012f6c24b1bc1d96105ee9
 }
 
 var funkyFunction = function() {
